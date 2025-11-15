@@ -21,13 +21,14 @@ export default function HeroSection() {
           className="space-y-6"
         >
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight text-gray-900">
-            Turning Ideas Into
-            <span className="block mt-2">Digital Success Stories</span>
+            Software Development &
+            <span className="block mt-2">Consulting</span>
           </h1>
 
           <p className="text-lg md:text-xl text-gray-800 max-w-lg leading-relaxed">
-            We build scalable, modern, and impactful digital solutions — helping
-            brands shine in the world of technology.
+            Software development and consulting company. But we are more than just developers.
+            Whether in HealthTech, EduTech, Solar Energy, or beyond, our mission is to give you tailored solutions 
+            that drive growth, efficiency, and success.
           </p>
 
           <div className="flex items-center gap-4 pt-4">
